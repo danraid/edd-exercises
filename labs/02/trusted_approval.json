@@ -1,0 +1,11 @@
+{
+  "candidate_may_modify_this": false,
+  "expected_sha256": {
+    "fixtures": "65fd7106ffe476980a9103b19d5eca7ddb0c08a28d9176cb7ba78b296617dcce",
+    "policy": "3c8a25d8737ee68872c265bf217981c49ef0d594a6f9d5dded211492aab00bf7",
+    "runner": "57ea615df942eadd3df938e23b0e27212f5eacd01d2f816dd85c1df14f82f32e",
+    "scorer": "aecb369ff035fc0de96316e5085ea6656b35739a822d2f19a6e81c93e2a0035e"
+  },
+  "issued_by": "synthetic-trusted-ci-fixture",
+  "schema": "mosaic-external-approval-v1"
+}

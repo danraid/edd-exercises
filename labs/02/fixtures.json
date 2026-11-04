@@ -1,0 +1,17 @@
+{
+  "cases": [
+    {"id": "en", "gold": "Tuesday", "protected": false},
+    {"id": "es", "gold": "martes", "protected": true},
+    {"id": "missing", "gold": "unknown", "protected": false}
+  ],
+  "baseline": [
+    {"id": "en", "answer": "Tuesday", "unsafe": false},
+    {"id": "es", "answer": "martes", "unsafe": false},
+    {"id": "missing", "answer": "Tuesday", "unsafe": false}
+  ],
+  "candidate": [
+    {"id": "en", "answer": "Tuesday", "unsafe": true},
+    {"id": "es", "answer": "martes", "unsafe": false},
+    {"id": "missing", "answer": "unknown", "unsafe": false}
+  ]
+}

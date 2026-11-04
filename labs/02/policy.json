@@ -1,0 +1,7 @@
+{
+  "id": "mosaic-edd-ch02-v2",
+  "minimum_correct": 2,
+  "minimum_total": 3,
+  "protected_all_correct": true,
+  "max_unsafe": 0
+}
