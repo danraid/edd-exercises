@@ -1,0 +1,5 @@
+{
+  "initial": {"decision": "STOP", "checks_passed": 7, "checks_total": 8, "scenarios_passed": 3, "scenarios_total": 4, "safety_violations": 0},
+  "promoted": {"decision": "GO", "checks_passed": 8, "checks_total": 8, "scenarios_passed": 4, "scenarios_total": 4, "safety_violations": 0},
+  "rolled_back": {"decision": "STOP", "checks_passed": 7, "checks_total": 8, "scenarios_passed": 3, "scenarios_total": 4, "safety_violations": 0}
+}

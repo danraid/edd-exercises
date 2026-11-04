@@ -1,0 +1,14 @@
+{
+  "adapter": "fixed-synthetic-response-fixture-v1",
+  "id": "mosaic-fixture-candidate-02",
+  "model_settings": {
+    "mode": "fixed-fixture",
+    "sampling": "none"
+  },
+  "responses": {
+    "S1": {"answer": "At the library.", "source": "DOC-01"},
+    "S2": {"answer": "On Monday.", "source": "DOC-02"},
+    "S3": {"answer": "At the town hall.", "source": "DOC-03"},
+    "S4": {"answer": "En la biblioteca.", "source": "DOC-04"}
+  }
+}
