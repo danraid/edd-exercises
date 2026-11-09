@@ -1,7 +1,6 @@
 # Chapter 5. Human Evaluation and Annotation Quality: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/05.md).
-
+Companion to Chapter 5 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/05/README.md)
 
 ## Exercises and Knowledge Checks

@@ -1,7 +1,6 @@
 # Chapter 1. From Test-Driven Development to Eval-Driven Development: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/01.md).
-
+Companion to Chapter 1 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/01/README.md)
 
 ## Exercises and Knowledge Checks

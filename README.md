@@ -1,6 +1,6 @@
 # Eval-Driven Development: Exercises and Code
 
-Companion material for [Eval-Driven Development](https://github.com/danraid/eval-driven-development), organised by the 12 chapters of the book.
+Companion material for *Eval-Driven Development*, organised by the 12 chapters of the book.
 
 Each `chapters/NN/` directory contains the chapter's exercises and a worked answer key. Each `labs/NN/` directory contains runnable, offline synthetic teaching examples. Where the book provides full scripts inline, those scripts are included as standalone files. Some examples require Python 3.9+ and use only the Python standard library.
 

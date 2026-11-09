@@ -1,7 +1,6 @@
 # Chapter 2. The EDD Feedback Loop and Evaluation Contracts: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/02.md).
-
+Companion to Chapter 2 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/02/README.md)
 
 ## Exercises and Knowledge Checks

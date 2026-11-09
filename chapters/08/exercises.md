@@ -1,7 +1,6 @@
 # Chapter 8. Agentic AI Evaluation and Tool-Use Traces: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/08.md).
-
+Companion to Chapter 8 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/08/README.md)
 
 ## Exercises and Knowledge Checks

@@ -1,7 +1,6 @@
 # Chapter 7. RAG Evaluation: Retrieval, Grounding and Faithfulness: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/07.md).
-
+Companion to Chapter 7 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/07/README.md)
 
 ## Exercises and Knowledge Checks

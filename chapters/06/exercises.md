@@ -1,7 +1,6 @@
 # Chapter 6. LLM-as-a-Judge and Model-Based Evaluation: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/06.md).
-
+Companion to Chapter 6 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/06/README.md)
 
 ## Exercises and Knowledge Checks

@@ -1,7 +1,6 @@
 # Chapter 3. Evaluation Datasets, Sampling and Leakage: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/03.md).
-
+Companion to Chapter 3 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/03/README.md)
 
 ## Exercises and Knowledge Checks

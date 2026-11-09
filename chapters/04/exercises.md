@@ -1,7 +1,6 @@
 # Chapter 4. Metrics, Scoring and Statistical Uncertainty: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/04.md).
-
+Companion to Chapter 4 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/04/README.md)
 
 ## Exercises and Knowledge Checks
