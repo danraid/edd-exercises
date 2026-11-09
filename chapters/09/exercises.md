@@ -1,7 +1,6 @@
 # Chapter 9. Regression Testing, CI/CD and Eval-Driven Release Gates: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/09.md).
-
+Companion to Chapter 9 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/09/README.md)
 
 ## Exercises and Knowledge Checks

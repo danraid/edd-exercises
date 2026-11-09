@@ -1,7 +1,6 @@
 # Chapter 11. Observability, Drift, Cost and Evaluation Governance: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/11.md).
-
+Companion to Chapter 11 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/11/README.md)
 
 ## Exercises and Knowledge Checks

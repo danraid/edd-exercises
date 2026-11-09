@@ -1,7 +1,6 @@
 # Chapter 12. Reference EDD Harness and End-to-End Case Study: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/12.md).
-
+Companion to Chapter 12 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/12/README.md)
 
 ## Exercises and Knowledge Checks

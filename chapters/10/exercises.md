@@ -1,7 +1,6 @@
 # Chapter 10. Robustness, Safety and Adversarial Evaluation: Exercises
 
-Original: [book chapter](https://github.com/danraid/eval-driven-development/blob/main/manuscript/10.md).
-
+Companion to Chapter 10 of *Eval-Driven Development*.
 [Worked answers](solutions.md) | [Laboratory](../../labs/10/README.md)
 
 ## Exercises and Knowledge Checks
